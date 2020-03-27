@@ -8,5 +8,5 @@ Description of what the product is
 * **Tanner Owen** 
 * **Liam Fink**
 * **Drew Cousin**
-* **Bailey (IDK the last name)**
+* **Bailey Gano**
 
