@@ -1,4 +1,4 @@
-package Backend;
+package Backend.Users;
 
 import Backend.Accounts.AccountInt;
 import java.util.List;
